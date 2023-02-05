@@ -1,0 +1,9 @@
+.kaufman {
+  background-color: #1f1f1f;
+  color: #fff;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  padding: 90px 0 90px 0;
+  box-sizing: border-box;
+}
