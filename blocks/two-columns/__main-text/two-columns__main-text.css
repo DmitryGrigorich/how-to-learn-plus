@@ -1,10 +1,6 @@
 .two-columns__main-text {
   display: flex;
-  flex-flow: column wrap;
-  justify-content: space-between;
+  flex-wrap: wrap;
   row-gap: 30px;
   width: 80%;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
 }
