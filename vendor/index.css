@@ -1,5 +1,5 @@
-@import url('../vender/normalize.css');
-@import url('../vender/fonts.css');
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/rotation/rotation.css');
 @import url('../blocks/content/content.css');
@@ -73,7 +73,3 @@ h1, h2, h3, h4, h5, h6, p, a, ul, li {
   margin: 0;
   padding: 0;
 }
-
-/*div, h1, h2, h3, p {
-  border: 1px solid #f00;
-}*/
